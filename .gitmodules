@@ -1,0 +1,6 @@
+[submodule "psh-backend"]
+	path = psh-backend
+	url = https://github.com/Nanomarquez/psh-backend
+[submodule "psh-frontend"]
+	path = psh-frontend
+	url = https://github.com/Nanomarquez/psh-frontend
